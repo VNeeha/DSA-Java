@@ -1,10 +1,9 @@
-# 🚀 DSA Prep for Interviews (MAANG Focus)
+🚀 DSA Prep for Interviews and Upskilling
 
-This repository is a structured roadmap of my Data Structures and Algorithms (DSA) preparation for internship interviews — with a long-term goal of cracking top tech companies like those in MAANG. It includes problem-solving practice, topic-wise code, and learnings along the way.
-
+This repository is a structured roadmap of my Data Structures and Algorithms (DSA) preparation, focused on strengthening core concepts and problem-solving skills for technical interviews and personal upskilling.
 ---
 
-## 🧠 Why this Repository?
+🧠 Why this Repository?
 
 - ✅ Track my progress across core DSA topics
 - ✅ Keep all solved problems and notes in one place
@@ -13,22 +12,20 @@ This repository is a structured roadmap of my Data Structures and Algorithms (DS
 
 ---
 
-## 📁 Planned Folder Structure
+📁 Planned Folder Structure
 
 - Arrays/
 - Strings/
-- Recursion/
-- Sorting/
-- Searching/
+- Hashing/
+- TwoPointers_SlidingWindow/
+- Recursion_Backtracking/
+- Searching_Sorting/
 - LinkedLists/
-- Stacks/
-- Queues/
+- Stacks_Queues/
 - Trees/
 - Graphs/
-- DynamicProgramming/
-- BitManipulation/
-- SlidingWindow/
 - Greedy/
+- DynamicProgramming/
 - problems.md
 - README.md
 
@@ -40,14 +37,15 @@ This repository is a structured roadmap of my Data Structures and Algorithms (DS
 
 ---
 
-## 🛠️ Tools & Platforms
+🛠️ Tools & Platforms
 
 - Language: Java (primary), Python (optional)
 - Platforms: [LeetCode](https://leetcode.com/u/kl_2400520042/)
 
 ---
 
-## 📌 Note
+📌 Note
 
-This repo will evolve actively over the next 2 months as I solve and organize more problems.  
-Feel free to follow along, fork, or use it as a reference for your own prep!
+This repository will be updated consistently over the coming weeks.  
+It serves as both a learning log and a reference for future revision.  
+Feel free to fork, star ⭐, or use it to guide your own interview prep.
