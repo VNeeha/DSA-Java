@@ -41,6 +41,7 @@ This repository is a structured roadmap of my Data Structures and Algorithms (DS
 
 - Language: Java (primary), Python (optional)
 - Platforms: [LeetCode](https://leetcode.com/u/kl_2400520042/)
+              [GeeksforGeeks](https://www.geeksforgeeks.org/user/vinayanest92/)
 
 ---
 
